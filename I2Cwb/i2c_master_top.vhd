@@ -66,6 +66,7 @@
 --               Changed PRER reset value from 0x0000 to 0xffff, conform specs.
 --
 --Added by LT
+--Added by LT2
 
 library ieee;
 use ieee.std_logic_1164.all;
