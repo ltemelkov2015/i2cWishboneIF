@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Jan 17 19:16:21 2018
+# Process ID: 13332
+# Current directory: C:/Users/Lachezar/Documents/GIT/testGit/I2cWishbone
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3528 C:\Users\Lachezar\Documents\GIT\testGit\I2cWishbone\I2cWishbone.xpr
+# Log file: C:/Users/Lachezar/Documents/GIT/testGit/I2cWishbone/vivado.log
+# Journal file: C:/Users/Lachezar/Documents/GIT/testGit/I2cWishbone\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Lachezar/Documents/GIT/testGit/I2cWishbone/I2cWishbone.xpr
